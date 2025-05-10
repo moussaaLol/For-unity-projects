@@ -15,7 +15,7 @@ This repository is a collection of **my public Unity scripts** and accompanying 
 
 * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the scripts.
 
-Basically, feel free to grab anything you need for your projects, commercial or otherwise! Attribution is appreciated but not strictly required by the license.
+* Basically, feel free to grab anything you need for your projects, commercial or otherwise! Attribution is appreciated but not strictly required by the license.
 ---
 ## **Contribution**
 
