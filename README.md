@@ -16,14 +16,17 @@ This repository is a collection of **my public Unity scripts** and accompanying 
 * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the scripts.
 
 Basically, feel free to grab anything you need for your projects, commercial or otherwise! Attribution is appreciated but not strictly required by the license.
-
+---
 ## **Contribution**
 
 While these are primarily scripts I've developed, I'm open to suggestions and contributions! If you have an idea for an improvement or a new script, feel free to open an issue or submit a pull request.
 you can also contact me at **support@dreamweave.lol** or **@actuallymoussaa** on discord.
 
 ---
+## Unity Reference
 
+* if you want to learn more about Unity Variables you can head up to the [Unity Basics](https://github.com/moussaaLol/For-unity-projects/blob/main/Unity/Informations/Unity%20Basics/List.md) folder where i added the basics of the Unity Docs.
+---
 Thanks for stopping by! I hope you find something helpful for your Unity projects.
 
 Happy Coding! ✨
