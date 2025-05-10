@@ -6,8 +6,8 @@
 
 This repository is a collection of **my public Unity scripts** and accompanying **tutorials**. My goal is to share useful tools and knowledge with the Unity development community.
 
-* **Unity C# Scripts**: Dive into a variety of scripts covering different aspects of Unity development. Whether you're looking for movement controllers, utility functions, or specific game mechanics, you might find something useful here.
-* **Tutorials**: I aim to provide clear and concise tutorials explaining how to use the scripts in this repository, along with general tips and tricks for Unity development.
+* **Unity Scripts**: lots of scripts covering different aspects of Unity development. Whether you're looking for movement controllers, utility functions, or specific game mechanics, you might find something useful here.
+* **Tutorials**: I aim to provide clear tutorials explaining how to use the scripts in this repository, along with general tips and tricks for Unity development.
 
 ## **Usage and Licensing**
 
